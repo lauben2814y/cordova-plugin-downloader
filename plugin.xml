@@ -24,6 +24,6 @@
             <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
         </config-file>
         
-        <source-file src="src/android/DownloadPlugin.java" target-dir="src/com/example/downloadplugin" />
+        <source-file src="src/android/com/downloadplugin/DownloadPlugin.java" target-dir="src/android/com/downloadplugin" />
     </platform>
 </plugin>
