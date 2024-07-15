@@ -1,0 +1,20 @@
+{
+    "name": "cordova-plugin-download",
+    "version": "1.0.0",
+    "description": "Cordova Download Plugin with pause, resume, and cancel features",
+    "cordova": {
+        "id": "cordova-plugin-download",
+        "platforms": [
+            "android"
+        ]
+    },
+    "keywords": [
+        "ecosystem:cordova",
+        "cordova-android",
+        "cordova",
+        "download",
+        "plugin"
+    ],
+    "author": "Your Name",
+    "license": "Apache-2.0"
+}
